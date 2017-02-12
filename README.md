@@ -1,6 +1,9 @@
 # Donate
 
-[![]https://img.shields.io/badge/%24-donate-green.svg](https://github.com/QingWei-Li/donate)
+[![](https://img.shields.io/badge/%24-donate-green.svg)](https://github.com/QingWei-Li/donate)
+
+
+![](images/coffee.jpg)
 
 ## Paypal Me
 
