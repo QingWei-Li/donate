@@ -1,5 +1,7 @@
 # Donate
 
+> [Who has donated recently?](HISTORY.md)
+
 [![](https://img.shields.io/badge/%24-donate-green.svg)](https://github.com/QingWei-Li/donate)
 
 ![](images/coffee.jpg)
@@ -13,5 +15,3 @@
 ## Wechat or Alipay
 
 ![](images/wechat+alipay.png)
-
-> [Thank you for your love](HISTORY.md)
