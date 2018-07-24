@@ -17,3 +17,4 @@
 | z\*j         | 2018-05-25 | ¥6.66   | Wechat |                      |
 | \*彬         | 2018-05-31 | ¥99.00  | Wechat | docsify 非常棒！     |
 | Marek \* | 2018-07-02 | $10.00 | Paypal | I like docsify, so here you have a cofee :)! |
+| \*亮 | 2017-07-23 | ¥20.00 | Wechat | |
