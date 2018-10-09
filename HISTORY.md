@@ -18,4 +18,5 @@
 | \*彬         | 2018-05-31 | ¥99.00  | Wechat | docsify 非常棒！     |
 | Marek \* | 2018-07-02 | $10.00 | Paypal | I like docsify, so here you have a cofee :)! |
 | \*亮 | 2018-07-23 | ¥20.00 | Wechat | |
-| Brendan Lee |2018-09-19 | $10.00 | Paypal | docsify is a fantastic tool and has saved me a ton of time this week! Delightful to use and had all the features I was looking for. Thanks! |
+| Lee Brendan |2018-09-20 | $10.00 | Paypal | docsify is a fantastic tool and has saved me a ton of time this week! Delightful to use and had all the features I was looking for. Thanks! |
+| Ekhoff Fynn | 2018-09-29 | $5.00 | Paypal | Thanks for docsify! |
