@@ -20,3 +20,4 @@
 | \*亮 | 2018-07-23 | ¥20.00 | Wechat | |
 | Lee Brendan |2018-09-20 | $10.00 | Paypal | docsify is a fantastic tool and has saved me a ton of time this week! Delightful to use and had all the features I was looking for. Thanks! |
 | Ekhoff Fynn | 2018-09-29 | $5.00 | Paypal | Thanks for docsify! |
+| Robert Roskam | 2018-12-17| $50.00 | Paypal| Thanks for docsify! Love it!	| 
