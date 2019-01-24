@@ -24,3 +24,4 @@
 | G\*t | 2018-12-29|  ¥3.14 | Wechat | docsify 太棒了 |
 | \*\? |  2018-12-29| ¥29.99 | Wechat | docsify,vuep 非常棒~ | 
 | \*承阳 |  2019-01-14 | ¥50.00 | Paypal | 感谢 非常好的工作 | 
+| Mantoan Paolo | 2019-01-24 | €10.00 | Paypal | |
