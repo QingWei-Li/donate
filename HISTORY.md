@@ -28,3 +28,5 @@
 | Mantoan \* | 2019-01-24 | €10.00 | Paypal | |
 | \*东江         | 2018-02-11 | ¥10.00| Alipay |                      |
 | Arnaout \* | 2019-02-24 |   $10.00 | Paypal | Thank you for the great work with docsify. Keep it up! |
+| \*孟 | 2019-03-15 | ¥9.99 | Wechat | docsify 资瓷 |
+| Noxlogic | 2019-03-21 |  $10.00 | Paypal |  |
