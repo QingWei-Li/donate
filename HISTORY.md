@@ -35,3 +35,4 @@
 | noahniuwa        | 2019-08-06 | ¥10.00  | Wechat |    谢谢！I love Docsify ^_^               |
 | \*姆 | 2019-10-23 | ¥23.33 | Wechat | Good job |
 | Basiskarten \* | 2019-11-27 | €25.00 | Paypal | |
+| Danielle \* | 2019-12-24 |  $5.00 | Paypal | Thanks for building docsify!	 |
