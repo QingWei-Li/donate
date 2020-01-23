@@ -36,3 +36,4 @@
 | \*姆 | 2019-10-23 | ¥23.33 | Wechat | Good job |
 | Basiskarten \* | 2019-11-27 | €25.00 | Paypal | |
 | Danielle \* | 2019-12-24 |  $5.00 | Paypal | Thanks for building docsify!	 |
+| aSite\* | 2019-01-22 | $15.00 | Paypal | Thank you for docsify, which is outstanding!	|
