@@ -18,6 +18,7 @@
 
 ![](images/wechat+alipay.png)
 
-## P2P Money
+## Cryptocurrency
 
-BTC: 1JyKxoTTk53hU4We3ciLBKVYmemZ5Kfwhs
+BTC: 1FvxoH7K2Bsq3MkMinVSeHpRm3hJq368eE
+ETH: 0xbDdCcB8A4b2C7e5a9e8675912B6e79F6D92664dd
