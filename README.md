@@ -13,12 +13,13 @@
 [![](https://user-images.githubusercontent.com/7565692/28697768-da62c77e-7370-11e7-81f1-935f9eee2827.png)](https://www.paypal.me/cinwell)
 
 
+## Cryptocurrency
+
+BTC: 1FvxoH7K2Bsq3MkMinVSeHpRm3hJq368eE
+
+ETH: 0xbDdCcB8A4b2C7e5a9e8675912B6e79F6D92664dd
+
 
 ## Wechat or Alipay
 
 ![](images/wechat+alipay.png)
-
-## Cryptocurrency
-
-BTC: 1FvxoH7K2Bsq3MkMinVSeHpRm3hJq368eE
-ETH: 0xbDdCcB8A4b2C7e5a9e8675912B6e79F6D92664dd
