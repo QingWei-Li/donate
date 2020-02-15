@@ -17,8 +17,6 @@
 
 BTC: 1FvxoH7K2Bsq3MkMinVSeHpRm3hJq368eE
 
-ETH: 0xbDdCcB8A4b2C7e5a9e8675912B6e79F6D92664dd
-
 
 ## Wechat or Alipay
 
