@@ -12,6 +12,12 @@
 
 [![](https://user-images.githubusercontent.com/7565692/28697768-da62c77e-7370-11e7-81f1-935f9eee2827.png)](https://www.paypal.me/cinwell)
 
+
+
 ## Wechat or Alipay
 
 ![](images/wechat+alipay.png)
+
+## P2P Money
+
+BTC: 1JyKxoTTk53hU4We3ciLBKVYmemZ5Kfwhs
