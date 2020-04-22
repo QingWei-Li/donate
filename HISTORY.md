@@ -37,3 +37,4 @@
 | Basiskarten \* | 2019-11-27 | €25.00 | PayPal | |
 | Danielle \* | 2019-12-24 |  $5.00 | PayPal | Thanks for building docsify!	 |
 | aSite\* | 2019-01-22 | $15.00 | PayPal | Thank you for docsify, which is outstanding!	|
+| Ford \* | 2019-04-22 | $10.00 | PayPal | 	|
