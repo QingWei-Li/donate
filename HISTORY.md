@@ -36,5 +36,8 @@
 | \*姆 | 2019-10-23 | ¥23.33 | Wechat | Good job |
 | Basiskarten \* | 2019-11-27 | €25.00 | PayPal | |
 | Danielle \* | 2019-12-24 |  $5.00 | PayPal | Thanks for building docsify!	 |
-| aSite\* | 2019-01-22 | $15.00 | PayPal | Thank you for docsify, which is outstanding!	|
-| Ford \* | 2019-04-22 | $10.00 | PayPal | 	|
+| aSite\* | 2020-01-22 | $15.00 | PayPal | Thank you for docsify, which is outstanding!	|
+| \*欣桐         | 2020-04-21 | ¥5.00| Alipay |                      |
+| Ford \* | 2020-04-22 | $10.00 | PayPal | 	|
+| \*建越        | 2020-04-22 | ¥5.00| Alipay |                      |
+
