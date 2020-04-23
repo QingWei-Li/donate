@@ -39,5 +39,5 @@
 | aSite\* | 2020-01-22 | $15.00 | PayPal | Thank you for docsify, which is outstanding!	|
 | \*欣桐         | 2020-04-21 | ¥5.00| Alipay |                      |
 | Ford \* | 2020-04-22 | $10.00 | PayPal | 	|
-| \*建越        | 2020-04-22 | ¥5.00| Alipay |                      |
+| \*建越        | 2020-04-22 | ¥10.00| Alipay |                      |
 
