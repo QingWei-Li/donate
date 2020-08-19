@@ -41,3 +41,5 @@
 | Ford \* | 2020-04-22 | $10.00 | PayPal | 	|
 | \*建越        | 2020-04-22 | ¥10.00| Alipay |                      |
 | Israel \* | 2020-07-06 | $4.00 | PayPal | Thank you for the awesome docsify project :D		|
+| C\*W |  2020-08-11| ¥10.00 | Wechat | | 
+
