@@ -42,5 +42,7 @@
 | \*建越        | 2020-04-22 | ¥10.00| Alipay |                      |
 | Israel \* | 2020-07-06 | $4.00 | PayPal | Thank you for the awesome docsify project :D		|
 | C\*W |  2020-08-11| ¥10.00 | Wechat | | 
-\*威       | 2020-09-12 | ¥10.00| Alipay | support docsify |
+|\*威       | 2020-09-12 | ¥10.00| Alipay | support docsify |
 | ATN \* | 2020-12-12 | $10.00 | PayPal | I love docsify, great work!	|
+| \*里 |  2021-01-12| ¥10.00 | Wechat | Support docsify | 
+| \*芳 |  2021-01-12| ¥10.00 | Wechat | 工具很棒！试用看看 | 
