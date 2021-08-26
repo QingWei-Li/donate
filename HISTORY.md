@@ -46,3 +46,4 @@
 | ATN \* | 2020-12-12 | $10.00 | PayPal | I love docsify, great work!	|
 | \*里 |  2021-01-12| ¥10.00 | Wechat | Support docsify | 
 | \*芳 |  2021-01-12| ¥10.00 | Wechat | 工具很棒！试用看看 | 
+| * |  2021-07-12| 0.00036128 BTC | BTC |  | 
