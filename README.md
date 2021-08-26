@@ -15,7 +15,7 @@
 
 ## Cryptocurrency
 
-BTC: 1FvxoH7K2Bsq3MkMinVSeHpRm3hJq368eE
+BTC: 3BkxfN1YJSwqDtt3mm5JmQX7yrCF6WqxFS
 
 
 ## Wechat or Alipay
