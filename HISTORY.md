@@ -48,3 +48,4 @@
 | \*芳 |  2021-01-12| ¥10.00 | Wechat | 工具很棒！试用看看 | 
 |\* Josef |  2021-02-14| $10.00 | Paypal |Thanks for your charts.| 
 | * |  2021-07-02| 0.00036128 BTC | BTC |  | 
+| Endler \* | 2022-08-16 |  $5.00 | PayPal | 	 |
