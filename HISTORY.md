@@ -49,3 +49,4 @@
 |\* Josef |  2021-02-14| $10.00 | Paypal |Thanks for your charts.| 
 | * |  2021-07-02| 0.00036128 BTC | BTC |  | 
 | Endler \* | 2022-08-16 |  $5.00 | PayPal | 	 |
+| \*鹿         | 2022-09-12 | ¥50.00  | Wechat |                     |
