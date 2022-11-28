@@ -50,3 +50,4 @@
 | * |  2021-07-02| 0.00036128 BTC | BTC |  | 
 | Endler \* | 2022-08-16 |  $5.00 | PayPal | 	 |
 | \*鹿         | 2022-09-12 | ¥50.00  | Wechat |                     |
+|\* Lewis |  2022-11-27| $57.87 | Paypal |Thanks for Docsify. It makes writing documentation easy and fun, which means I am more likely to do it :) | 
